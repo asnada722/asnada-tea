@@ -1,0 +1,19 @@
+{
+  "name": "asnada-tea",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asnada722/asnada-tea"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asnada722/asnada-tea/issues"
+  },
+  "homepage": "https://github.com/asnada722/asnada-tea#readme"
+}
