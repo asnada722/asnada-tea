@@ -1,6 +1,6 @@
 {
   "name": "asnada-tea",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/asnada722/asnada-tea/issues"
   },
-  "homepage": "https://github.com/asnada722/asnada-tea#readme"
+  "homepage": "https://github.com/asnada722/asnada-tea#readme",
+  "dependencies": {
+    "asnada-tea": "^1.1.9",
+    "npm": "^10.5.0"
+  }
 }
